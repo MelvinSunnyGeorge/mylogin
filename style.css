@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: white;
+    background: linear-gradient(#9906d8, #6f0b74);
 }
 
 .formbox{
